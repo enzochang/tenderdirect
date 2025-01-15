@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://tdirect.dev2.local/');
 define('DIR_APPLICATION', '/home/dev2/domains/tdirect.dev2.local/public_html/tenderdirect/admin/');
 define('DIR_SYSTEM', '/home/dev2/domains/tdirect.dev2.local/public_html/tenderdirect/system/');
 define('DIR_IMAGE', '/home/dev2/domains/tdirect.dev2.local/public_html/tenderdirect/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/home/dev2/domains/tdirect.dev2.local/public_html/storage/');
 define('DIR_CATALOG', '/home/dev2/domains/tdirect.dev2.local/public_html/tenderdirect/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
